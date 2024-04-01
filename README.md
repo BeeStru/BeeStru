@@ -5,7 +5,7 @@ Hi, I’m Bastian Struve (@BeeStru)
 Shouting out to the world! Shout back to connect or collaborate.
 Reach out via struve_11@hotmail.com or www.linkedin.com/in/bstru
 
-⚡ Fun fact: You know a good climbing centre? I meet you there!
+- ⚡ Fun fact: You know a good climbing centre? I meet you there!
 
 <!---
 BeeStru/BeeStru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
