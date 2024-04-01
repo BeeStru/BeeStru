@@ -1,5 +1,5 @@
 Hi, I’m Bastian Struve (@BeeStru)
-- 👀 I’m a data analyst with 10+ years of experience using R, Python, and more to tackle human behaviour research.
+\n 👀 I’m a data analyst with 10+ years of experience using R, Python, and more to tackle human behaviour research.
 - 🌱 I'm building a portfolio here to showcase my experience. It's in the making! (Date: March 2024)
 
 Shouting out to the world! Shout back for opportunities to learn, work, collaborate or connect.
